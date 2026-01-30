@@ -8,6 +8,7 @@ import ReactEcommerce from "../assets/img-projects/ecommers.jpg";
 import PortfolioDev from "../assets/img-projects/PortfolioDev.jpg";
 import VintageTone from "../assets/img-projects/vintageToneApp.jpg";
 import AstroEcommers from "../assets/img-projects/astroEcommers.jpg";
+import CvBuilder from "../assets/img-projects/CvBuilder.png";
 
 export const proyectos = [
   {
@@ -30,7 +31,7 @@ export const proyectos = [
     codigo: "https://github.com/Lautaro-R-collins/React-E-commerce.git",
     categoria: "fullstack",
   },
-    {
+  {
     titulo: "Astro Ecommerce",
     descripcion:
       "E-commerce frontend desarrollado con Astro y React. Incluye carrito de compras, categorías, y diseño responsivo.",
@@ -49,6 +50,16 @@ export const proyectos = [
     demo: "https://front-react-todo.onrender.com",
     codigo: "https://github.com/Lautaro-R-collins/Front-react-todo",
     categoria: "fullstack",
+  },
+  {
+    titulo: "CV Builder",
+    descripcion:
+      "Generador de Currículum multi-idioma profesional siguiendo el formato recomendado por Harvard y amigable con los ATS. ",
+    imagen: CvBuilder.src,
+    tecnologias: ["React", "contextAPI", "tailwind", "i18n"],
+    demo: "https://cv-builder-pi-three.vercel.app",
+    codigo: "https://github.com/Lautaro-R-collins/CV-Builder.git",
+    categoria: "frontend",
   },
   {
     titulo: "E-commerce Urban Style",
@@ -145,7 +156,7 @@ export const proyectos = [
     codigo: "https://github.com/Lautaro-R-collins/ApiRest-Ecommerce.git",
     categoria: "backend",
   },
-    {
+  {
     titulo: "API REST Vintage Tone App",
     descripcion:
       "API RESTful construida con Node.js, Express y MongoDB para gestionar tareas con operaciones CRUD, Registro de usuarios y login con JWT.",
