@@ -4,8 +4,8 @@ import tailwindcss from "@tailwindcss/vite";
 import react from "@astrojs/react";
 
 export default defineConfig({
-  site: "https://jes4code.github.io",  // ← AÑADE: tu usuario GitHub
-  base: "/",  // ← AÑADE: "/" si repo principal; "/portfolio" si sub-repo
+  site: "https://jes4code.github.io",  
+  base: "/",  
   vite: {
     plugins: [tailwindcss()],
   },
