@@ -38,19 +38,19 @@ const SkillsList = () => {
 
   const skills = {
     "¿Qué tecnologías uso?": [
-      "Actualmente trabajo con tecnologías como React, Next.js, Vue.js, Astro, tailwind, Boostrap y demas librerias y frameworks para el frontend y en el backend trabajo con Node.js, Express, MongoDB, Firebase, entre otras.",
+      "Trabajo con tecnologías como Python, FastAPI, React y JavaScript para el desarrollo web full‑stack, junto con herramientas como MongoDB, Docker, Git, Postman, Jira y SQL Developer, entre otras."
     ],
     "Mi Experiencia": [
-      "Tengo experiencia trabajando en startups y consultoras tecnológicas, desarrollando y maquetando sitios web a partir de diseños en Figma. Para ello, utilizo tecnologías frontend como Astro y React, junto con Tailwind CSS y otras librerías y frameworks para el estilizado y la optimización de interfaces.",
+      "Cuento con experiencia en el desarrollo de proyectos académicos y personales, destacando mi TFG EvaluIA, una plataforma web full‑stack para la evaluación automática de exámenes. En estos proyectos he trabajado en el análisis de requisitos, el diseño de APIs REST, las pruebas automatizadas y la implementación de interfaces web funcionales."
     ],
-    "Mi formacion": [
-      "Estudié una tecnicatura en automatización de grado universitaria en el ITU, lo que me brindó las bases en programación. Posteriormente, decidí enfocarme en el desarrollo web y de software. Ademas, realicé diversos cursos, diplomados y capacitaciones en grandes universidades Argentinas, como la UTN, tambien, complemento mi formación con el aprendizaje autodidacta, lo que me permite mantenerme actualizado con los avances tecnológicos en el desarrollo de software.",
+    "Mi formación": [
+      "Soy Ingeniero Informático del Software por la Universidad de Extremadura, donde adquirí una base sólida en programación, desarrollo web y gestión de proyectos. Actualmente busco seguir formándome mediante un máster de especialización y considero el aprendizaje continuo imprescindible en nuestro sector, marcado por una innovación tecnológica constante. Completo mi formación con aprendizaje autodidacta continuo para mantenerme actualizado en tecnologías de desarrollo de software."
     ],
     "¿Cómo trabajo en equipo?": [
-      "Tengo experiencia trabajando en equipos multidisciplinarios, donde me he encargado del desarrollo frontend de aplicaciones web. Para ello, utilizo metodologías ágiles como Scrum y Kanban, además de herramientas de control de versiones como Git y GitHub para gestionar el flujo de trabajo. También cuento con experiencia en el uso de herramientas de gestión de proyectos como Trello y Jira, facilitando la organización y colaboración dentro del equipo.",
+      "Cuento con una experiencia sólida trabajando en equipo gracias a los numerosos proyectos colaborativos realizados durante mi carrera, donde la coordinación y la cooperación eran clave para cumplir plazos y objetivos. Me considero una persona con alta capacidad de colaboración, buena comunicación y manejo de equipo, aportando ideas, organizando tareas y adaptándome a distintos roles según lo que el proyecto necesita."
     ],
-    "Metodolgias Agiles": [
-      "He trabajado con metodologías ágiles como Scrum y Kanban. En Scrum, participé en sprints de dos semanas, donde al finalizar cada sprint realizaba un pull request (PR) con mi trabajo, el cual pasaba por una fase de revisión y corrección antes de ser fusionado y enviado a producción. También he trabajado con Kanban, utilizando tableros para gestionar tareas y moverlas según su estado de progreso. Además, participé en reuniones diarias (dailies) para planificar y reportar avances del proyecto, asegurando una comunicación eficiente dentro del equipo.",
+    "Metodologías ágiles": [
+      "Como Ingeniero Informático del Software, he trabajado con metodologías ágiles como Scrum y Kanban durante mi formación y en proyectos de desarrollo. Estoy familiarizado con la planificación e implementación de sprints, el uso de tableros de tareas (por ejemplo, con Jira) y la organización del trabajo en equipo mediante reuniones periódicas para seguimiento y mejora continua. Estas metodologías me permiten adaptarme rápido a cambios, priorizar de forma efectiva y mantener una comunicación clara dentro del equipo."
     ],
   };
 
