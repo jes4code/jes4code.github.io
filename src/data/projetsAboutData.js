@@ -1,37 +1,21 @@
-import urbanStyle from "../assets/img-projects/urbanStyle.png";
-import imgNote from "../assets/img-projects/note-app.png";
-import ReactEcommerce from "../assets/img-projects/ecommers.jpg";
-import VintageTone from "../assets/img-projects/vintageToneApp.jpg";
+
+import Nefli from "../assets/img-projects/nefli.png";
+import EvaluIA from "../assets/img-projects/evaluia.png";
 
 export const proyectos = [
     {
-    titulo: "Vintage Tone",
-    imagen: VintageTone.src,
-    tecnologias: ["Vue.js", "Tailwind", "Express", "MongoDB"],
-    demo: "https://vintage-tone-front-vue.vercel.app",
-    codigo: "https://github.com/Lautaro-R-collins/VintageTone-Front-Vue.git",
+    titulo: "Ñefli",
+    imagen: Nefli.src,
+    tecnologias: ["Java", "Spring Boot", "PostgreSQL", "Nginx", "Docker", "Docker Compose"],
+    codigo: "https://github.com/jes4code/netflix-project",
     categoria: "fullstack",
   },
   {
-    titulo: "React Tiendita",
-    imagen: ReactEcommerce.src,
-    tecnologias: ["React", "Tailwind", "Node.js" ,"Express", "MongoDB", "jwt"],
-    demo: "https://react-e-commerce-three-phi.vercel.app",
-    codigo: "https://github.com/Lautaro-R-collins/React-E-commerce.git",
+    titulo: "EvaluIA",
+    imagen: EvaluIA.src, 
+    tecnologias: ["Python", "FastAPI", "React", "MongoDB", "Docker", "Docker Compose", "Google Gemini API"],
+    codigo: "https://github.com/jes4code/EvaluIA-Project",
+    categoria: "fullstack",
   },
-  {
-    titulo: "E-commerce Urban Style",
-    descripcion: "Descripción breve del proyecto 1.",
-    imagen: urbanStyle.src,
-    tecnologias: ["React", "Tailwind", "Firebase"],
-    demo: "https://proyecto-final-rodriguez-sable.vercel.app/",
-    codigo: "https://github.com/Lautaro-R-collins/ProyectoFinal-Rodriguez.git",
-  },
-  {
-    titulo: "API REST para Ecommerce",
-    imagen: "https://miro.medium.com/1*47S4iWVwTicFkFL4-Z4uAA.png",
-    tecnologias: ["Express", "Node.js", "MongoDB", "Mongoose"],
-    demo: "https://react-e-commerce-three-phi.vercel.app/",
-    codigo: "https://github.com/Lautaro-R-collins/ApiRest-Ecommerce.git",
-  },
+
 ];
